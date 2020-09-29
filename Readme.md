@@ -6,7 +6,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 ### LeetCode Algorithm
 
-##### [Problems 1100-1200](./1200-1300q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[C++](c++/question1.cpp)|Easy|
